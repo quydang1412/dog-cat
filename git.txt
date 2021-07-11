@@ -23,9 +23,11 @@ git checkout <branch> //chuyen nhanh
 
 git branch // xem nhanh hien tai
 
---git merge
+--git merge // chuyen du lieu tu nhanh moi luu vao nhanh chinh
 A <--B
 git checkout A
 git merge B
+
+git branch -D <branch> // xoa branch
 
 
