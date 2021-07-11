@@ -5,3 +5,7 @@ git commit -m 'add b1.html'
 git config --global user.email 'info@gmail'
 git config --global user.name ''
 git log // lich su commit
+git diff // diffrent
+Q de thoat
+
+git repository // noi luu tru nhung thay doi
