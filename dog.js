@@ -2,6 +2,10 @@ function Dog(){
 	this.stomach = [];
 };
 
+function Dog(name){
+	this.name = name;
+}
+
 Dog.prototyp.eat = function(cat){
 	this.stomach.push(cat);
 };
