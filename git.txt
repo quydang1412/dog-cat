@@ -30,4 +30,8 @@ git merge B
 
 git branch -D <branch> // xoa branch
 
+git reset --soft <id> // quay ve ban commit truoc
+git reset --mixed <id> // quay ve ban commit truoc, truoc khi len stag
+
+
 
