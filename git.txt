@@ -1,0 +1,7 @@
+git init // khoi tao git
+git status// xem trang thai nhung file moi
+git add // chuyen thanh mau xanh
+git commit -m 'add b1.html'
+git config --global user.email 'info@gmail'
+git config --global user.name ''
+git log // lich su commit
