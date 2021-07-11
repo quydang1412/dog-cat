@@ -9,3 +9,16 @@ git diff // diffrent
 Q de thoat
 
 git repository // noi luu tru nhung thay doi
+gitk // cua so app
+
+git checkout -- cat.js  // quay lai phien ban truoc, khi chua len staging
+git reset HEAD cat.js // unstage
+
+branch nhanh lich su luu
+
+git checkout -b feature/dog-class // tao nhanh, chuyen nhanh
+git checkout -b <branch>
+
+git checkout <branch> //chuyen nhanh 
+
+git branch // xem nhanh hien tai
