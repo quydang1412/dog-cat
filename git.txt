@@ -22,3 +22,10 @@ git checkout -b <branch>
 git checkout <branch> //chuyen nhanh 
 
 git branch // xem nhanh hien tai
+
+--git merge
+A <--B
+git checkout A
+git merge B
+
+
