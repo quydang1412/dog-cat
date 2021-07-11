@@ -8,3 +8,6 @@ Dog.prototyp.eat = function(cat){
 function run(){
 	console.log('the dog is running');
 }
+
+//this is commit A
+//this is commit B
