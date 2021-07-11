@@ -32,6 +32,8 @@ git branch -D <branch> // xoa branch
 
 git reset --soft <id> // quay ve ban commit truoc
 git reset --mixed <id> // quay ve ban commit truoc, truoc khi len stag
+git reset --hard <id> // quay ve ban commit truoc, xoa het cac phien ban truoc
 
+git revert <id> // xoa du lieu da commit cua mot file trong qua khu
 
-
+npm install chalk --save // luu cac npm module
